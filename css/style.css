@@ -1,0 +1,228 @@
+* {
+	marging: 0;
+	padding: 0;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.font {
+	color: #0000;
+	font-family: "黑体";
+	margin-left: 20px!important;
+	margin-left: 5px;
+	line-height: 32px;
+	float: left;
+}
+.whole {
+	width: 961px;
+	height: auto;
+	margin: auto;
+	margin-top: 0;
+}
+/*头部*/
+
+.head {
+	height: 154px;
+	float: left;
+	width: 960px;
+}
+.top {
+	font: 宋体;
+	font-size: small;
+}
+.top_right {
+	margin-left: 0;
+}
+.name {
+	margin-top: 10px;
+}
+.dh {
+	height: 24px!important;
+	background-color: black;
+}
+.dh ul {
+	width: 100%;
+}
+.menu {
+	width: 8%;
+	: height: 100% !important;
+	font-size: 14px;
+	font-family: "黑体";
+	color: #fff;
+	list-style: none;
+	float: left;
+	overflow: hidden;
+	line-height: 24px;
+	_margin-top: 15px;
+	height: 24px;
+}
+/*主体*/
+
+.mclass {
+	height: auto;
+	float: left;
+	*margin-top: -15px;
+}
+/*通知栏*/
+
+.tz {
+	margin-left: 10px;
+	margin-top: 19px;
+	width: 222px;
+	float: left;
+}
+/*.title{
+	background-color: black;
+	height: 32px;
+	width: 222px;
+	border-top-right-radius: 10px;  
+	border-top-left-radius: 10px;
+}*/
+
+.image {
+	float: left;
+	padding-left: 5px;
+	border: 0;
+	margin: 0;
+}
+.content {
+	height: 168px;
+}
+.content ul {
+	float: left;
+	margin: 0!important;
+	margin-top: -15px;
+	padding: 10px;
+	border: 0;
+}
+.content_1 {
+	list-style: none;
+	height: 100%;
+	line-height: 25px;
+	font-size: 13px;
+}
+/*图片栏*/
+
+.photo {
+	height: 199px;
+	width: 339px;
+	float: left;
+	margin-top: 29px;
+	margin-left: 20px;
+	background-color: #8A8A8A;
+}
+.number {
+	float: right;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+.number ul {
+	margin: 0;
+	border: 0;
+}
+.photo_num {
+	list-style: none;
+	float: left;
+	height: 100%;
+	line-height: 15px;
+	font-size: 13px;
+	width: 15px;
+	background-color: #FFFFFF;
+	padding-left: 5px;
+	border: 1px solid #000
+}
+/*新闻栏*/
+
+.news {
+	width: 337px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 19px;
+}
+/*.tip{
+	border-radius: 5px;
+	background: black;
+	width: 97px;
+	height: 32px;
+}
+/*搜索栏*/
+
+.select {
+	float: left;
+	margin-left: 10px;
+	/*margin-top: -4px;*/
+	
+	width: 222px;
+}
+.sel {
+	margin-top: 15px;
+	margin-left: 5px;
+	line-height: 36px;
+	float: left;
+}
+/*公司介绍*/
+
+.introduce {
+	float: left;
+	width: 696px;
+	margin-left: 20px;
+	height: 186px;
+}
+.sim {
+	font-family: 宋体;
+	font-size: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	line-height: 20px;
+	float: left;
+}
+/*联系我们*/
+
+.con {
+	float: left;
+	margin-left: 10px;
+	width: 222px;
+}
+.con_content {
+	margin-top: 10px;
+	line-height: 26px;
+	margin-left: 20px;
+	font-family: 黑体;
+	font-size: 13px;
+	float: left;
+}
+/*产品信息*/
+
+.product {
+	width: 696px;
+	float: left;
+	margin-left: 20px;
+}
+.product ul {
+	float: left;
+	margin: 0;
+	padding: 10px;
+	border: 0;
+}
+.imga {
+	list-style: none;
+	height: 100%;
+	line-height: 45px;
+	float: left;
+	padding-left: 15px;
+}
+/*底部栏*/
+
+.bottom {
+	background-color: #000000;
+	height: auto;
+	text-align: center;
+	float: left;
+	width: 960px;
+}
